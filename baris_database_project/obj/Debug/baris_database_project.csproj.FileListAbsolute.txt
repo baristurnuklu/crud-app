@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\bin\Debug\baris_database_project.exe.config
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\bin\Debug\baris_database_project.exe
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\bin\Debug\baris_database_project.pdb
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.exe
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.pdb
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.ado_proje.resources
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\bin\Debug\C1.Data.2.dll
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\bin\Debug\C1.Data.2.xml
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.csproj.CopyComplete
+C:\Users\Furkan\Desktop\Restaurant\baris_database_project\obj\Debug\baris_database_project.data_form.resources
